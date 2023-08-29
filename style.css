@@ -1,0 +1,173 @@
+/* index css 以下 */
+body {
+    font-family: 'SF Pro Text','蘋方-繁';
+}
+
+.wrap {
+    width: 1200px;
+    /* height: 3039px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header h1 {
+    font-size: 48px;
+    letter-spacing: 3px;
+    margin-bottom: 24px;
+}
+
+.header hr {
+    border: 2px solid gray;
+}
+
+.header img {
+    width: 324px;
+    height: 324px;
+    margin-top: 48px;
+}
+
+h2 {
+    height: 45px;
+    font-size: 32px;
+    margin: 0 0 8px 0;
+}
+
+.content {
+    margin: 48px 0 72px 0;
+}
+
+.content p {
+    font-size: 24px;
+}
+
+.profile {
+    height: 29px;
+    color: #A00404;
+    font-size: 24px;
+    line-height: 29px;
+    font-weight: 600;
+}
+
+.education p {
+    font-size: 24px;
+}
+
+.skill {
+    height: 496px;
+    background: #415165;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 0 0 72px 0;
+}
+
+.skill h2 {
+    font-size: 32px;
+    padding: 24px 0 8px 0;
+}
+
+.skill_bline {
+    width: 996px;
+    margin: 8px 0 40px 100px;
+}
+
+.skill_item {
+    width: 224px;
+    margin: auto;
+    border-left: 1px solid #FFFFFF;
+    text-align: left;
+    opacity: 0.7;
+}
+
+.skill ul{
+    margin: 0;
+}
+
+.skill li {
+    width: 200px;
+    font-size: 24px;
+    margin-bottom: 24px;
+    font-weight: 300;
+    list-style: none;
+}
+
+.skill .ft-24 {
+    font-size: 24px;
+    line-height: 29px;
+    font-weight: 500;
+}
+
+.experience_item {
+    width: 660px;
+    margin: 0 0 0 16px;
+    border-left: 1px solid gray;
+    text-align: left;
+}
+
+.experience_item li {
+    list-style: none;
+    margin-bottom: 32px;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.experience_item li p {
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.experience_item li img {
+    width: 89.5px;
+    height: 66.85px;
+    margin-top: 8px;
+    margin-bottom: 8.15px;
+}
+
+.experience_item li span {
+    font-size: 20px;
+}
+
+.footer {
+    width: auto;
+    height: 401px;
+    text-align: center;
+    background: #415165;
+    color: #FFFFFF;
+    margin-top: 72px;
+}
+
+.footer .ft-24 {
+    font-size: 24px;
+    line-height: 29px;
+    font-weight: 500;
+}
+
+.footer h2 {
+    font-size: 32px;
+    padding: 24px 0 8px 42px;
+}
+
+.footer_bline {
+    width: 1200px;
+}
+
+.footer ul {
+    list-style: none;
+}
+
+.footer li {
+    margin: 0 0 16px 0;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 300;
+}
+
+.footer img {
+    width: 48px;
+    height: 48px;
+    margin: 20px 24px 0 0;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
